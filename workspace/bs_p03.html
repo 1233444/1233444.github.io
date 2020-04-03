@@ -10,6 +10,19 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
   <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
 
+  <script type="text/javascript">
+    (function() {
+      var blinks = document.getElementsByTagName('blink');
+      var visibility = 'hidden';
+      window.setInterval(function() {
+        for (var i = blinks.length - 1; i >= 0; i--) {
+          blinks[i].style.visibility = visibility;
+        }
+        visibility = (visibility === 'visible') ? 'hidden' : 'visible';
+      }, 250);
+    })();
+  </script>
+
   <style>
     @font-face {
       font-family: 'Roboto', sans-serif;
@@ -25,8 +38,8 @@
   <div class="container-fluid">
     <div class="row justify-content-md-center">
       <div class="col">
-      <h1 style="font-family: Roboto">EMAIL TEMPLATE</h1>
-      <hr>
+        <h1 style="font-family: Roboto">EMAIL TEMPLATE</h1>
+        <hr>
       </div>
     </div>
     <div class="row justify-content-md-center">
@@ -34,9 +47,10 @@
         <p style="font-family: Roboto">NYAC was hoping we could get a selfie of all the kids in our group for our 2019-2020 yearbook. </p>
         <p></p>
         <p style="font-family: Roboto">Feel free to make the photo fun! They can be anything like a picture with a pet or favorite stuffed animal, pic with a parent, eating your favorite food, funny hairstyles, caps, and goggles on. Or, if you have
-          any pictures from swim meets or practice please send them in! This is not mandatory, however, this is the last chance to get your photo in the yearbook. </p>
+          any pictures from swim meets or practice please send them in! <blink>This is not mandatory, however, this is the last chance to get your photo in the yearbook.<blink></p>
         <p></p>
-        <p>You can send them to me (<a href="mailto:nyac.cchan@gmail.com">nyac.cchan@gmail.com</a>). I have already uploaded some pictures from our groups that I posted on our respective groups and the rest of NYAC. Follow this link to see the photos on the NYAC swimming on Flickr
+        <p>You can send them to me (<a href="mailto:nyac.cchan@gmail.com">nyac.cchan@gmail.com</a>). I have already uploaded some pictures from our groups that I posted on our respective groups and the rest of NYAC. Follow this link to see the photos
+          on the NYAC swimming on Flickr
           <a href="https://www.flickr.com/photos/69633248@N07/albums/">https://www.flickr.com/photos/69633248@N07/albums/</a></p>
         <p></p>
         <p></p>
