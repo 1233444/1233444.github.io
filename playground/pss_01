@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <title>Pokemon SS</title>
+
+  <link rel="stylesheet" href="/CSS/ps_00.css">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <link type="text/css" rel="stylesheet" href="resources/sheet.css">
+  <style type="text/css">
+    .ritz .waffle a {
+      color: inherit;
+    }
+
+    .ritz .waffle .s1 {
+      background-color: #ffffff;
+      text-align: center;
+      color: #000000;
+      font-family: 'Arial';
+      font-size: 10pt;
+      vertical-align: bottom;
+      white-space: nowrap;
+      direction: ltr;
+      padding: 2px 3px 2px 3px;
+    }
+
+    .ritz .waffle .s0 {
+      border-bottom: 1px SOLID #000000;
+      border-right: 1px SOLID #000000;
+      background-color: #000000;
+      text-align: center;
+      color: #ffffff;
+      font-family: 'docs-Roboto', Arial;
+      font-size: 14pt;
+      vertical-align: middle;
+      white-space: nowrap;
+      direction: ltr;
+      padding: 2px 3px 2px 3px;
+    }
+
+    .ritz .waffle .s2 {
+      border-bottom: 1px SOLID #000000;
+      border-right: 1px SOLID #000000;
+      background-color: #ffffff;
+      text-align: center;
+      color: #000000;
+      font-family: 'docs-Roboto', Arial;
+      font-size: 14pt;
+      vertical-align: middle;
+      white-space: nowrap;
+      direction: ltr;
+      padding: 2px 3px 2px 3px;
+    }
+
+    .ritz .waffle .s3 {
+      background-color: #ffffff;
+      text-align: center;
+      color: #000000;
+      font-family: 'Arial';
+      font-size: 10pt;
+      vertical-align: bottom;
+      white-space: nowrap;
+      direction: ltr;
+      padding: 0;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="ritz grid-container" dir="ltr">
+    <table class="waffle" cellspacing="0" cellpadding="0">
+      <thead>
+        <tr>
+          <th class="row-header freezebar-origin-ltr"></th>
+          <th id="0C0" style="width:152px" class="column-headers-background">A</th>
+          <th id="0C1" style="width:152px" class="column-headers-background">B</th>
+          <th id="0C2" style="width:152px" class="column-headers-background">C</th>
+          <th id="0C3" style="width:152px" class="column-headers-background">D</th>
+          <th id="0C4" style="width:152px" class="column-headers-background">E</th>
+          <th id="0C5" style="width:100px" class="column-headers-background">F</th>
+          <th id="0C6" style="width:100px" class="column-headers-background">G</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr style='height:92px;'>
+          <th id="0R0" style="height: 92px;" class="row-headers-background">
+            <div class="row-header-wrapper" style="line-height: 92px;">1</div>
+          </th>
+          <td class="s0" dir="ltr">Pokmen : From</td>
+          <td class="s0" dir="ltr">Condition</td>
+          <td class="s0" dir="ltr">Pokemon : to</td>
+          <td class="s0" dir="ltr">Type 1</td>
+          <td class="s0" dir="ltr">Type2</td>
+          <td class="s1"></td>
+          <td class="s1"></td>
+        </tr>
+        <tr style='height:92px;'>
+          <th id="0R1" style="height: 92px;" class="row-headers-background">
+            <div class="row-header-wrapper" style="line-height: 92px;">2</div>
+          </th>
+          <td class="s2" dir="ltr">Golett</td>
+          <td class="s2" dir="ltr">43</td>
+          <td class="s2" dir="ltr">Golurk</td>
+          <td class="s2" dir="ltr">Ground</td>
+          <td class="s2" dir="ltr">Ghost</td>
+          <td class="s3">
+            <div style="width:100px;height:92px;"><img src="https://lh4.googleusercontent.com/-UPRlzXc46GABRwXqZ6RtEBMI982a_XatZg6fbvDlb8ZyzWZjhWBFkrIv5mgzqbdyY1QHVCBd8GUow7G8swNCm3acWgOr-Zzt5TBl-3wQfnlsy1Nf3wJ-nYM_XiOB3ng71XtcenU1g=w100-h92"
+                style="width:inherit;height:inherit;object-fit:scale-down;object-position:center bottom;" /></div>
+          </td>
+          <td class="s3">
+            <div style="width:100px;height:92px;"><img src="https://lh5.googleusercontent.com/YqhBkfTdA2tYuVN0FEdyzeVw-jcOQpSBs3MMoqUSBn00yrabaQxPy2H72-5-9Rclnp-IYBSlduiGXsiMkIwfkWCSL7ECb-clxXwjN8aFWQ9jN1_k0Syib9Hj7jVPHDTkcr9TJyFJhg=w100-h92"
+                style="width:inherit;height:inherit;object-fit:scale-down;object-position:center bottom;" /></div>
+          </td>
+        </tr>
+        <tr style='height:92px;'>
+          <th id="0R2" style="height: 92px;" class="row-headers-background">
+            <div class="row-header-wrapper" style="line-height: 92px;">3</div>
+          </th>
+          <td class="s2" dir="ltr">Phantump</td>
+          <td class="s2" dir="ltr">Trade</td>
+          <td class="s2" dir="ltr">Trevenant</td>
+          <td class="s2" dir="ltr">Ghost</td>
+          <td class="s2" dir="ltr">Grass</td>
+          <td class="s3">
+            <div style="width:100px;height:92px;"><img src="https://lh4.googleusercontent.com/7wmjsBzX9GCLkg6-q5-dQurdERNxl8ANVL9AdksegANZD7z-hi_Y8IkQ_P9RIFx1YrZ6eMS2Bg1r_9MyvrISZ7-L0NRiKpqYYNnW1wcsPDClTT9YW-xXyoaOc87NFz0HPNfismeRcw=w100-h92"
+                style="width:inherit;height:inherit;object-fit:scale-down;object-position:center bottom;" /></div>
+          </td>
+          <td class="s3">
+            <div style="width:100px;height:92px;"><img src="https://lh5.googleusercontent.com/0C1dFfHNi_RCcgePl_X4mIT3TKlUSlLaOEVWXlpZX1vTKt3Q9tyaWqmuAtMd_QBu_bXlUYxUHy2eEkENVtwDO1qZ4M0p8Vm1la-9IgIYdyI4oJUz4rv5Iy5rNVgy_B3-3_cJxDOpWw=w100-h92"
+                style="width:inherit;height:inherit;object-fit:scale-down;object-position:center bottom;" /></div>
+          </td>
+        </tr>
+        <tr style='height:92px;'>
+          <th id="0R3" style="height: 92px;" class="row-headers-background">
+            <div class="row-header-wrapper" style="line-height: 92px;">4</div>
+          </th>
+          <td class="s2" dir="ltr">Litwick</td>
+          <td class="s2" dir="ltr">41</td>
+          <td class="s2" dir="ltr">Lampent</td>
+          <td class="s2" dir="ltr">Ghost </td>
+          <td class="s2" dir="ltr">Fire</td>
+          <td class="s3">
+            <div style="width:100px;height:92px;"><img src="https://lh6.googleusercontent.com/lNJeB3snOtIkC80fpbElYLxaXjP_SeMcNtDcL9u2vhVld6Kn2yRoUEorwv57JdBILTUU2qBCHzmGfglE5fVeam5-hPUXCsil2bXa6uaBDwiry6IEJeogSDFBHr3cEAH9q_wFl61ZHA=w100-h92"
+                style="width:inherit;height:inherit;object-fit:scale-down;object-position:center bottom;" /></div>
+          </td>
+          <td class="s3">
+            <div style="width:100px;height:92px;"><img src="https://lh6.googleusercontent.com/aTcMdcTQtUsSdvZs4BDHKPs8WaJt953pCKKdWmMG8RInb5bVy3rZbU4Je3_Q8WeBZmzpC90Y1Y_NyXCSOkuzmJK7rWXvBmwXAUmSvIx8YQYL50T-UFQnEjRmQ_EUCDGoY1iIKCLPsg=w100-h92"
+                style="width:inherit;height:inherit;object-fit:scale-down;object-position:center bottom;" /></div>
+          </td>
+        </tr>
+        <tr style='height:92px;'>
+          <th id="0R4" style="height: 92px;" class="row-headers-background">
+            <div class="row-header-wrapper" style="line-height: 92px;">5</div>
+          </th>
+          <td class="s2" dir="ltr">Lampent</td>
+          <td class="s2" dir="ltr">Dusk Stone</td>
+          <td class="s2" dir="ltr">Chandelure</td>
+          <td class="s2" dir="ltr">Ghost </td>
+          <td class="s2" dir="ltr">Fire</td>
+          <td class="s3">
+            <div style="width:100px;height:92px;"><img src="https://lh5.googleusercontent.com/z9brK8vfn5vjrqdqPyohaKv9IIqQ3JdtZKOekfh28qivmqrK6M28_mciekuG58aMBkjxjF7TV8X_64RLhRRokqAV81sDshcegdK9XHRwD_P9eAafj3WxT8BTNxXSRNNs0KQGBTEubw=w100-h92"
+                style="width:inherit;height:inherit;object-fit:scale-down;object-position:center bottom;" /></div>
+          </td>
+          <td class="s3">
+            <div style="width:100px;height:92px;"><img src="https://lh3.googleusercontent.com/GxChJ5FUxqn5xJo1REaFbzbRfGwOp8h-2T-X4mwkiFV3OL1hQmcFmT1vaZJu33gEYHWRsT66I49XdHaAvR4GVSudxLH_vW5Ff_mRCyL-dY-8TqDcOxXBQpHBsdBqkH5x-gFQx6njwQ=w100-h92"
+                style="width:inherit;height:inherit;object-fit:scale-down;object-position:center bottom;" /></div>
+          </td>
+        </tr>
+        <tr style='height:92px;'>
+          <th id="0R5" style="height: 92px;" class="row-headers-background">
+            <div class="row-header-wrapper" style="line-height: 92px;">6</div>
+          </th>
+          <td class="s2" dir="ltr">Toxel</td>
+          <td class="s2" dir="ltr">30</td>
+          <td class="s2" dir="ltr">Toxtricity</td>
+          <td class="s2" dir="ltr">Electric</td>
+          <td class="s2" dir="ltr">Poison</td>
+          <td class="s3">
+            <div style="width:100px;height:92px;"><img src="https://lh3.googleusercontent.com/d2Wets_21fW4KLpVARv7svNDx_0LoWi5BXDWWgUKDAYIVkeutq-t-tZ5PnGi7y8nzezwW4bVoI_pa6IypXe1qvlwfMT-wNwzUipvTF28gkiniEZWOsex1QngcGbR_C-eYo882ZK1qQ=w100-h92"
+                style="width:inherit;height:inherit;object-fit:scale-down;object-position:center bottom;" /></div>
+          </td>
+          <td class="s3">
+            <div style="width:100px;height:92px;"><img src="https://lh5.googleusercontent.com/t8n0AVw9EBubKZkD7uSgQ5CvApsX46LWKvlIF3pFfTw5muNb6eKTQ60Z4EEGC1bqe8g0k0eiJqxXlBXkHAOLc04Rtii0cGFriy9kcfMHD_lOYDhcSrEKgtDwsjABD_agCjiKUuU7AA=w100-h92"
+                style="width:inherit;height:inherit;object-fit:scale-down;object-position:center bottom;" /></div>
+          </td>
+        </tr>
+        <tr style='height:92px;'>
+          <th id="0R6" style="height: 92px;" class="row-headers-background">
+            <div class="row-header-wrapper" style="line-height: 92px;">7</div>
+          </th>
+          <td class="s2" dir="ltr">Helioptile</td>
+          <td class="s2" dir="ltr">Sun stone</td>
+          <td class="s2" dir="ltr">Heliolisk</td>
+          <td class="s2" dir="ltr">Electric</td>
+          <td class="s2" dir="ltr">Normal</td>
+          <td class="s3">
+            <div style="width:100px;height:92px;"><img src="https://lh5.googleusercontent.com/hcWADfSQDi0ODTvgGKf6a_fC9hdpeIrDTN-EY-BlP6BEf8UqFmECV4-dzTj7U2baA8OMR9xQLdVD4o5x7cYWoqJNtzg4iZlwhU-KQdDzQO4qK86OJzdi-OthUyboQqL804hzZ-HMNw=w100-h92"
+                style="width:inherit;height:inherit;object-fit:scale-down;object-position:center bottom;" /></div>
+          </td>
+          <td class="s3">
+            <div style="width:100px;height:92px;"><img src="https://lh4.googleusercontent.com/R4uMmS9JUPCv-WJ9IPlh2sP97QX1cnFcozi-WiO_NBobtGAYSsm0yqq7Fqrq_q6GEK_g3JPN_tIhuhqUPq4MxIf32maGL_PpmeY4Udnf2iKXOn3DzAQTMWB7oJhNNUONjGi12YkqEQ=w100-h92"
+                style="width:inherit;height:inherit;object-fit:scale-down;object-position:center bottom;" /></div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <script type='text/javascript' nonce='OECbfiNUKyU07jNYJ1x+Dg'>
+    function posObj(sheet, id, row, col, x, y) {
+      var rtl = false;
+      var sheetElement = document.getElementById(sheet);
+      if (!sheetElement) {
+        sheetElement = document.getElementById(sheet + '-grid-container');
+      }
+      if (sheetElement) {
+        rtl = sheetElement.getAttribute('dir') == 'rtl';
+      }
+      var r = document.getElementById(sheet + 'R' + row);
+      var c = document.getElementById(sheet + 'C' + col);
+      if (r && c) {
+        var objElement = document.getElementById(id);
+        var s = objElement.style;
+        var t = y;
+        while (r && r != sheetElement) {
+          t += r.offsetTop;
+          r = r.offsetParent;
+        }
+        var offsetX = x;
+        while (c && c != sheetElement) {
+          offsetX += c.offsetLeft;
+          c = c.offsetParent;
+        }
+        if (rtl) {
+          offsetX -= objElement.offsetWidth;
+        }
+        s.left = offsetX + 'px';
+        s.top = t + 'px';
+        s.display = 'block';
+        s.border = '1px solid #000000';
+      }
+    };
+
+    function posObjs() {};
+    posObjs();
+  </script>
+</body>
+
+</html>
