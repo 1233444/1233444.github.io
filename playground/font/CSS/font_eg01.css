@@ -1,0 +1,38 @@
+/* General setup */
+
+html {
+  margin      : 0;
+  font-family : sans-serif;
+  font-size   : 10px;
+}
+
+body {
+  width     : 80%;
+  max-width : 800px;
+  margin    : 0 auto;
+}
+
+/* Typography */
+
+h1 {
+  font-size : 4rem;
+}
+
+h2 {
+  font-size : 3rem;
+}
+
+h1,
+h2 {
+  font-family : 'Lobster',
+                cursive;
+}
+
+p {
+  font-family    : 'Raleway',
+                   sans-serif;
+  font-size      : 1.4rem;
+  line-height    : 1.6;
+  letter-spacing : 0.1rem;
+  word-spacing   : 0.6rem;
+}
